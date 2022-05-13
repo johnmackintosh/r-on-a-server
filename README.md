@@ -1,6 +1,6 @@
-# ~~Snakes on A Plane~~ 
+# ~~Snakes on a Plane~~ 
 
-# R On A Server
+# R on a Server
 
 ![image](https://user-images.githubusercontent.com/3278367/168334595-06c615b3-9b54-4c3e-9f71-50c14216f976.png)
 
