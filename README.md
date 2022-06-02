@@ -7,6 +7,10 @@
 
 # Links relating to running R on a server 
 
+https://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/  
+
+https://www.how2shout.com/linux/install-rstudio-server-open-source-on-ubuntu-20-04-lts/  
+
 https://thedatalab.com/tech-blog/running-r-remotely-some-options-and-tips/
 
 https://info201.github.io/remote-server.html
@@ -51,6 +55,9 @@ https://atomic-vector.netlify.app/2019/11/19/sql-server-from-linux/
 
 # Windows Subsystem for Linux
 https://support.rstudio.com/hc/en-us/articles/360049776974-Using-RStudio-Server-in-Windows-WSL2  
+
 https://blog.jdblischak.com/posts/wsl-r/  
+
 https://www.drdataking.com/post/rstudio-server-on-ubuntu-through-windows-subsystem-for-linux-wsl2/  
+
 https://hackernoon.com/how-to-install-rstudio-on-the-wsl-system  
