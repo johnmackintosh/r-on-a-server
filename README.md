@@ -50,7 +50,7 @@ https://github.com/microsoft/deployr-rserve
 https://atomic-vector.netlify.app/2019/11/19/sql-server-from-linux/
 
 # Windows Subsystem for Linux
-https://support.rstudio.com/hc/en-us/articles/360049776974-Using-RStudio-Server-in-Windows-WSL2
-https://blog.jdblischak.com/posts/wsl-r/
-https://www.drdataking.com/post/rstudio-server-on-ubuntu-through-windows-subsystem-for-linux-wsl2/
-https://hackernoon.com/how-to-install-rstudio-on-the-wsl-system
+https://support.rstudio.com/hc/en-us/articles/360049776974-Using-RStudio-Server-in-Windows-WSL2  
+https://blog.jdblischak.com/posts/wsl-r/  
+https://www.drdataking.com/post/rstudio-server-on-ubuntu-through-windows-subsystem-for-linux-wsl2/  
+https://hackernoon.com/how-to-install-rstudio-on-the-wsl-system  
