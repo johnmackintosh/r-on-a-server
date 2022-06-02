@@ -1,12 +1,11 @@
 # ~~Snakes on a Plane~~ 
 
-# R on a Server
-
 ![image](https://user-images.githubusercontent.com/3278367/168334595-06c615b3-9b54-4c3e-9f71-50c14216f976.png)
 
+# R on a Server
 
 
-links relating to running R on a server 
+# Links relating to running R on a server 
 
 https://thedatalab.com/tech-blog/running-r-remotely-some-options-and-tips/
 
